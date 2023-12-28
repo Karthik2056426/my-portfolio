@@ -1,7 +1,8 @@
 import React from "react";
 import Netflix from '../assets/netflixscreen.jpg';
 import Gpt3 from '../assets/gpt3.jpg';
-import Todo from '../assets/todolist.jpg'
+import Todo from '../assets/todolist.jpg';
+import Shopping from '../assets/shopping.jpg';
 function Work(){
 
     return(
@@ -87,6 +88,34 @@ To-do-list app
                        bg-white text-gray-700 font-bold text-lg">Demo</button>
                     </a>
                     <a href="https://github.com/Karthik2056426/to-do-list-app"
+                      target='_blank'
+                    rel='noreferrer noopener' >
+                        <button   className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg">Code</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        {/* grid component above this */}
+
+          {/* grid component */}
+          <div  style={{ backgroundImage: `url(${Shopping})` }} 
+         className=" group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div ">
+              {/* Hover effect for images */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+                <span className="text-2xl font bold text-white tracking-wider ">
+Shopping app
+                </span>
+                <div  className="pt-8 text-center ">
+
+                    <a href="https://react-shopping-app-omega.vercel.app/"  
+                    target='_blank'
+                    rel='noreferrer noopener' >
+                        <button   className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg">Demo</button>
+                    </a>
+                    <a href="https://github.com/Karthik2056426/react-shopping-app"
                       target='_blank'
                     rel='noreferrer noopener' >
                         <button   className="text-center rounded-lg px-4 py-3 m-2
