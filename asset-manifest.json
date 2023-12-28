@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.8aae1633.css",
-    "main.js": "/my-portfolio/static/js/main.eb3647e5.js",
+    "main.js": "/my-portfolio/static/js/main.e18f2609.js",
     "static/media/netflixscreen.jpg": "/my-portfolio/static/media/netflixscreen.68a08e49a93758f2a1ec.jpg",
+    "static/media/shopping.jpg": "/my-portfolio/static/media/shopping.984459e1e3e809291658.jpg",
     "static/media/gpt3.jpg": "/my-portfolio/static/media/gpt3.2b159adaa8d0416cd6ce.jpg",
     "static/media/todolist.jpg": "/my-portfolio/static/media/todolist.70040fc24b6e91e244b9.jpg",
     "static/media/react.png": "/my-portfolio/static/media/react.b19a7ea62269e54657b2.png",
@@ -31,10 +32,10 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/my-portfolio/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/my-portfolio/index.html",
     "main.8aae1633.css.map": "/my-portfolio/static/css/main.8aae1633.css.map",
-    "main.eb3647e5.js.map": "/my-portfolio/static/js/main.eb3647e5.js.map"
+    "main.e18f2609.js.map": "/my-portfolio/static/js/main.e18f2609.js.map"
   },
   "entrypoints": [
     "static/css/main.8aae1633.css",
-    "static/js/main.eb3647e5.js"
+    "static/js/main.e18f2609.js"
   ]
 }
